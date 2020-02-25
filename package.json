@@ -1,7 +1,7 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "repository": "https://github.com/younggie/gulp-study",
+  "repository": "https://github.com/younggie/gulp-study.git",
   "license": "MIT",
   "scripts": {
     "dev": "gulp dev",
